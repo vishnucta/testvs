@@ -136,7 +136,7 @@
             
             "flexibleColumnLayout": {
 
-                "defaultTwoColumnLayoutType": "TwoColumnsMidExpanded",
+                "defaultTwoColumnLayoutType": "TwoColumnsMidExpanded", 
 
                 "defaultThreeColumnLayoutType": "ThreeColumnsEndExpanded"
 
