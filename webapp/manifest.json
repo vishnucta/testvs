@@ -132,7 +132,7 @@
             "forceGlobalRefresh": false,
             "objectPageHeaderType": "Dynamic",
             "considerAnalyticalParameters": true,
-            "showDraftToggle": false,
+            "showDraftToggle": false, 
             
             "flexibleColumnLayout": {
 
